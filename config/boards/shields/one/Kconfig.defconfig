@@ -1,6 +1,6 @@
 if SHIELD_ONE
 
-CONFIG ZMK_KEYBOARD_NAME
+config ZMK_KEYBOARD_NAME
     default "one"
 
 endif

@@ -1,0 +1,2 @@
+config SHIELD_ONE
+    def_bool $(shield_list_contains, one)

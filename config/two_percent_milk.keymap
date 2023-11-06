@@ -10,7 +10,7 @@
 
 / {
     keymap {
-        compatible = "zmk,keymap";
+        compatible = "zmk,kscan-gpio-direct";
 
         default_layer {
             bindings = <
